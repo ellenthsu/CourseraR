@@ -1,0 +1,4 @@
+CourseraR
+=========
+
+Coursera R class
